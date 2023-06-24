@@ -1,0 +1,112 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+/*Configurando o header */
+
+header {
+    width: 100%;
+}
+
+#logo {
+    margin: auto;
+    max-width: 100%;
+    background-color: #ff6b28 ;
+    text-align: center;
+}
+
+#logo > img {
+    padding: 10px;
+}
+
+#foto_bolo {
+    height: 400px;
+    background-image: url(./assets/hero_bolo.jpg);
+    background-size: cover;
+    background-position: center;    
+}
+
+
+
+/*Configurando o main*/
+ main {
+    width: 100%;
+ }
+h1 {
+    margin-top: 50px;
+    margin-left: 15%;
+    font-style: bold;
+    color: #ff6b28;
+    margin-bottom: 70px;
+}
+
+h4 {
+    color: #ff6b28;
+    font-style: bold;
+}
+
+ul, ol {
+    padding-left: 15px;
+}
+
+li {
+    padding: 3px;
+
+}
+
+button{
+    padding: 10px;
+    color: white;
+    background-color: #ff6b28;
+    border: none;
+    border-radius: 10px;
+}
+
+#preparo, #instrucoes, #lista {
+    margin-left: 20%;
+    margin-bottom: 70px;
+    width: 50%;
+}
+
+/* Configurando hover da lista */
+
+#lista:hover {
+    width: 50%;
+    border: solid 2px black;
+    padding: 10px;
+    cursor: url(./assets/cursor_ingredientes.png), move;
+    
+}
+
+#preparo:hover {
+    width: 50%;
+    border: solid 2px black;
+    padding: 10px;
+    cursor: url(./assets/cursor_preparo.png), move;
+    
+}
+
+#instrucoes:hover {
+    width: 50%;
+    border: solid 2px black;
+    padding: 10px;
+    cursor: url(./assets/cursor_intrucoes.png), move;
+    
+}
+
+
+
+/* configurando o footer*/
+
+footer {
+    margin: auto;
+    width: 100%;
+    background-color: #ff6b28;
+    text-align: center;
+    padding: 3px;
+}
+
+footer > p {
+    color: white;
+}
