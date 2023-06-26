@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/pagina%20receitas.png" width="80%">
+  <img alt="projeto DevLinks" src="./assets/projetos.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,6 @@ Essa é uma página de receitas simples e resposiva Feita no curso fullstack do 
 - [Acesse o projeto finalizado, online](https://guilhermegfg.github.io/PaginaReceitas-ProgBr/)
 
 ## 💻 Redes sociais
-<br>
 
 [<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> ](https://www.instagram.com/devgfg14/) &nbsp;&nbsp;&nbsp; [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/guilhermegfg14/) &nbsp;&nbsp;&nbsp; [<img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>](https://twitter.com/Devgfg14)&nbsp;&nbsp;&nbsp; [<img width="50" height="50" src="https://img.icons8.com/bubbles/50/tiktok.png" alt="tiktok"/>](https://www.tiktok.com/@devgfg14) &nbsp;&nbsp;&nbsp; [<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>](mailto:contato@guilhermegfg2011@hotmail.com)
 
