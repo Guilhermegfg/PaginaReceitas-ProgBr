@@ -73,26 +73,27 @@ button{
 
 #lista:hover {
     width: 50%;
-    border: solid 2px black;
-    padding: 10px;
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
+    padding: 40px;
     cursor: url(./assets/cursor_ingredientes.png), move;
+    border-radius: 20px;
     
 }
 
 #preparo:hover {
     width: 50%;
-    border: solid 2px black;
-    padding: 10px;
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
+    padding: 40px;
     cursor: url(./assets/cursor_preparo.png), move;
-    
+    border-radius: 20px;
 }
 
 #instrucoes:hover {
     width: 50%;
-    border: solid 2px black;
-    padding: 10px;
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);   
+    padding: 40px;
     cursor: url(./assets/cursor_intrucoes.png), move;
-    
+    border-radius: 20px;
 }
 
 
