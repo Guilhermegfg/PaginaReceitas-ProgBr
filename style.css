@@ -1,12 +1,14 @@
 body {
     font-family: 'Lato', sans-serif;
     margin: 0;
+    box-sizing: border-box;
+
 }
 
 /*Configurando o header */
 
 header {
-    width: 100%;
+    width: auto;
 }
 
 #logo {
@@ -31,7 +33,7 @@ header {
 
 /*Configurando o main*/
  main {
-    width: 100%;
+    width: auto;
  }
 h1 {
     margin-top: 50px;
@@ -102,10 +104,9 @@ button{
 
 footer {
     margin: auto;
-    width: 100%;
+    width: auto;
     background-color: #ff6b28;
     text-align: center;
-    padding: 3px;
 }
 
 footer > p {
