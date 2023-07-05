@@ -104,7 +104,7 @@ button{
 
 footer {
     margin: auto;
-    max-width: 100%;
+    width: 100%;
     background-color: #ff6b28;
     text-align: center;
 }
